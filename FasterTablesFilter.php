@@ -12,7 +12,7 @@ class FasterTablesFilter {
 
 	function tablesPrint($tables) { ?>
 
-  <p class="jsonly"><input id="filter-field">
+  <p class="jsonly"><input id="filter-field" accesskey="r">
   <style>
     .select-text {
       margin-right: 5px;
